@@ -1,0 +1,88 @@
+.size{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 40%;
+    height: 80%;
+}
+
+/* nav ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+  
+nav li {
+    display: inline-block;
+}
+  
+nav a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    font-family:Arial;
+    font-size: 25px;
+    margin-left: 10px;
+} */
+
+.video{
+    width: 100%;
+    height: 100%;
+}
+
+form{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#direccion-envio{
+    width: 45%;
+}
+
+#info-confidencial{
+    width: 45%;
+    display: none;
+}
+
+.form-container form {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.centrar{
+	text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    color:rgb(218, 24, 224);
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.loginForm{
+    width: 70%;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.loginContainer{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+}
+
+.app3{
+    font-size: 100px;
+    margin-bottom: 50px;
+}
+
+#bodyStyle{
+    background-image: url('../img/forest.jpg');
+      background-size: cover;
+      background-repeat: repeat;
+}
